@@ -1,0 +1,5 @@
+Credentials cache: API:75C2E4AD-EB10-4848-9273-8EB64CDD8FF5
+        Principal: bozcan@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Oct 22 08:20:19 2021  Oct 22 18:20:19 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
